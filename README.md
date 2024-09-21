@@ -24,9 +24,8 @@ To run the game locally, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-gui.git
-   cd tic-tac-toe-gui
-
+   git clone https://github.com/Rohith9939/Tic-Tac-Toe-Game-Using-Swing.git
+   
 2. Open the project in your preferred Java IDE (Eclipse, IntelliJ, etc.).
 3. Compile and run the TicTacToeGUI.java file.
 **Contributors**
